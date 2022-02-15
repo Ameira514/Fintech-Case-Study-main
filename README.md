@@ -2,7 +2,7 @@
 *Ramana Challa* & *Ameira Khaleq*
 
 
-![markdown-image-link](Ally_Financial.png)
+![markdown-image-link](Images/Ally_Financial.png)
 
 # Ally Financial    
 
@@ -13,9 +13,8 @@
 ​A financial services industry previously known as GMAC Inc. They changed to the name Ally Financial in 2010. Ally is one of the largest residential mortgage companies and had initially offered services in auto finance and have now expanded to online banking, credit, lending, and wealth management. 
 Their competitors are Discover, Capital One, JP Morgan Chase,& Bank of America. 
 
-![markdown-image-link](Discover.png)
-![markdown-image-link](JP_Morgan_Chase.png)
-![markdown-image-link](Capital_One.png)
+![markdown-image-link](Images/Discover.png)
+![markdown-image-link](Images/JP_Morgan_Chase.png) ![markdown-image-link](Images/Capital_One.png)
 
 
 ## Tech Usage & What Makes Ally a FinTech Competitor
